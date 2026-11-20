@@ -1,0 +1,158 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Platinum Post — GTA 6 Trophy Companion</title>
+<style>
+:root{--paper:#faf6ee;--ink:#14110f;--soft:#5b534a;--rule:#d8cfbf;--red:#c8102e;--teal:#0f7d78;--amber:#b8860b;--gold:#8a6d00;--silver:#6f7a86;--bronze:#8a5a2a;--cream2:#f2ead8;--ok:#1d7a4f;--blur:blur(6px)}
+*{margin:0;padding:0;box-sizing:border-box}
+body{background:var(--paper);color:var(--ink);font:15px/1.6 Georgia,"Times New Roman",serif}
+.sheet{max-width:1020px;margin:0 auto;padding:20px 24px;background:linear-gradient(180deg,var(--paper),var(--cream2))}
+.mast{display:flex;align-items:baseline;gap:14px;border-bottom:3px double var(--ink);padding-bottom:6px}
+.mast h1{font-size:40px;font-weight:900;letter-spacing:1px;font-family:Georgia,serif}
+.mast .dateline{margin-left:auto;text-align:right;font-size:12px;color:var(--soft)}
+.mast .dateline b{font-size:18px;color:var(--red)}
+.kicker{display:flex;gap:10px;align-items:center;border-bottom:1px solid var(--rule);padding:6px 0;font-size:12px;letter-spacing:2px;text-transform:uppercase;color:var(--soft)}
+.kicker .flash{background:var(--red);color:#fff;padding:1px 8px;border-radius:3px;font-weight:700;letter-spacing:1px}
+.grades{display:grid;grid-template-columns:repeat(4,1fr);gap:10px;margin:14px 0}
+.gcell{border:1px solid var(--rule);background:#fff9ec;padding:10px 12px;border-radius:6px;position:relative}
+.gcell .lab{font-size:11px;letter-spacing:1.5px;text-transform:uppercase;color:var(--soft)}
+.gcell .num{font-size:26px;font-weight:900;font-family:Arial,sans-serif}
+.gcell .tick{position:absolute;top:8px;right:10px;font-size:11px;color:var(--ok);font-weight:700}
+.g-platinum .num{color:var(--ink)} .g-gold .num{color:var(--gold)} .g-silver .num{color:var(--silver)} .g-bronze .num{color:var(--bronze)}
+.tools{display:flex;flex-wrap:wrap;gap:8px;margin:12px 0;border:1px solid var(--rule);border-radius:8px;padding:10px;background:#fffdf5}
+.tools input[type=search]{flex:1;min-width:220px;border:1px solid var(--rule);background:#fff;padding:8px 10px;border-radius:6px;font:14px Georgia,serif}
+.tools select{border:1px solid var(--rule);background:#fff;padding:8px;border-radius:6px;font:13px Georgia,serif}
+.tools button{border:1px solid var(--ink);background:#fffdf5;padding:8px 14px;border-radius:6px;cursor:pointer;font:13px Georgia,serif}
+.tools button.act{background:var(--ink);color:var(--paper);font-weight:700}
+.tools button.danger{border-color:var(--red);color:var(--red)}
+.road{margin:14px 0;border:1px solid var(--rule);border-radius:8px;background:#fffdf5;padding:12px 14px}
+.road h2{font-size:15px;letter-spacing:1px;text-transform:uppercase;border-bottom:1px solid var(--rule);padding-bottom:4px;margin-bottom:8px}
+.road ol{list-style:none;display:grid;grid-template-columns:repeat(5,1fr);gap:8px}
+.road li{font-size:12.5px;color:var(--soft);padding-left:10px;border-left:3px solid var(--red)}
+.road li b{display:block;color:var(--ink);font-size:13px}
+.alert{border:1px solid var(--red);background:#fdf1ee;color:#7c1d1d;border-radius:6px;padding:10px 14px;font-size:13.5px;margin:12px 0}
+.alert b{color:var(--red)}
+.cols{columns:2;column-gap:22px;column-rule:1px solid var(--rule)}
+.card{break-inside:avoid;border-bottom:1px solid var(--rule);padding:10px 2px}
+.card.done .ttl{color:var(--soft);text-decoration:line-through}
+.card .top{display:flex;align-items:center;gap:8px}
+.pip{width:14px;height:14px;border-radius:50%;flex:none;border:1px solid var(--ink)}
+.pip.p-platinum{background:radial-gradient(circle at 35% 30%,#fff,#9fb4cc)} .pip.p-gold{background:radial-gradient(circle at 35% 30%,#ffe58a,#b8860b)} .pip.p-silver{background:radial-gradient(circle at 35% 30%,#eef2f6,#93a3b8)} .pip.p-bronze{background:radial-gradient(circle at 35% 30%,#e0b183,#8a5426)}
+.card .ttl{font-weight:700;font-size:15px;font-family:Arial,sans-serif}
+.card .tag{font-size:9.5px;letter-spacing:1px;text-transform:uppercase;color:#fff;background:var(--teal);border-radius:8px;padding:1px 7px;margin-left:auto}
+.card .tag.story{background:var(--red)} .card .tag.money{background:var(--amber)} .card .tag.robbery{background:var(--ink)}
+.card .miss{font-size:9.5px;letter-spacing:1px;color:#fff;background:var(--red);border-radius:8px;padding:1px 7px}
+.card .dd{color:var(--soft);font-style:italic;font-size:13px;margin:2px 0 4px 22px}
+.card .gd{font-size:13.5px;margin-left:22px;color:#211d19}
+.card .gd .cite{display:block;font-size:11px;color:var(--soft);margin-top:3px;font-style:italic}
+.card .box{margin-left:8px}
+.card .box input{width:16px;height:16px;accent-color:var(--ok);cursor:pointer}
+.card.hid .ttl,.card.hid .dd,.card.hid .gd{filter:var(--blur);user-select:none}
+footer{border-top:3px double var(--ink);margin-top:14px;padding-top:8px;font-size:11.5px;color:var(--soft);display:flex;justify-content:space-between}
+.toast{position:fixed;bottom:16px;left:50%;transform:translateX(-50%);background:var(--ok);color:#fff;padding:8px 18px;border-radius:6px;font:700 14px Arial;opacity:0;transition:.25s}
+</style>
+</head>
+<body>
+<div class="sheet">
+<div class="mast">
+  <h1>PLATINUM POST</h1>
+  <div class="dateline"><b id="pct">0%</b> toward the platinum<br><span id="cnt">0 of 55 banked</span></div>
+</div>
+<div class="kicker"><span class="flash">GUIDE</span> The Road to Leonida Legend · spoiler-safe edition · progress saved on this device</div>
+
+<div class="grades" id="grades">
+  <div class="gcell g-platinum"><div class="lab">Platinum</div><div class="num" id="n-pl">—</div><div class="tick" id="t-pl"></div></div>
+  <div class="gcell g-gold"><div class="lab">Gold</div><div class="num" id="n-go">0/2</div><div class="tick" id="t-go"></div></div>
+  <div class="gcell g-silver"><div class="lab">Silver</div><div class="num" id="n-si">0/6</div><div class="tick" id="t-si"></div></div>
+  <div class="gcell g-bronze"><div class="lab">Bronze</div><div class="num" id="n-br">0/46</div><div class="tick" id="t-br"></div></div>
+</div>
+
+<div class="tools">
+  <input id="q" type="search" placeholder="Search the 55 trophies...">
+  <select id="catf"><option value="all">Every kind</option><option>story</option><option>activity</option><option>collectible</option><option>stranger</option><option>robbery</option><option>wanted</option><option>combat</option><option>money</option><option>misc</option><option>100%</option><option>platinum</option><option>explore</option></select>
+  <select id="gr"><option value="all">Every grade</option><option>platinum</option><option>gold</option><option>silver</option><option>bronze</option></select>
+  <button id="hideB">Hide earned</button>
+  <button id="spB" class="act">Spoilers hidden</button>
+  <button onclick="ppReset()" class="danger">Start over</button>
+  <button onclick="ppExport()">Save progress</button>
+  <button onclick="document.getElementById('imp').click()">Load progress</button>
+  <input type="file" id="imp" accept="application/json" style="display:none">
+</div>
+
+<div class="road">
+  <h2>The Five-Act Road to the Platinum</h2>
+  <ol>
+    <li><b>Act I — Story</b>Ride the campaign. Fourteen trophies, one gold, land on their own.</li>
+    <li><b>Act II — Strangers</b>Eight strands: Andy, Kenton, Billy, Randy, Tyrone, Bret, and friends.</li>
+    <li><b>Act III — The Take</b>Five vaults, the truck, the quiet jewelry job, nine gang fronts.</li>
+    <li><b>Act IV — The Grind</b>250 stunts, gold on 42 ranges, 20 races, 14 drone spots, 50 challenges.</li>
+    <li><b>Act V — The Meter</b>Cards, vehicles, garages, spending, laundering — 100% completion.</li>
+  </ol>
+</div>
+
+<div class="alert"><b>Mind the one missable:</b> <i>Positive Mental Attitude</i> — a meditation spot that exists only during Chapter 1 is gone once the chapter ends. Sit and meditate early. Every other trophy can be cleaned up after the credits.</div>
+
+<div class="cols" id="cols"></div>
+
+<footer><span>The Platinum Post · an offline companion · sources cited per trophy</span><span id="stamp"></span></footer>
+</div>
+<div class="toast" id="toast">Progress saved</div>
+<script type="module">
+const DATA = await fetch('./data/trophies.json').then(r=>r.json());
+let st = JSON.parse(localStorage.getItem('pp1') || '{}');
+let spoil = localStorage.getItem('ppsp') !== '0';   // default: hidden
+let hideE = false;
+const cols = document.getElementById('cols');
+const toast = document.getElementById('toast');
+const flash = ()=>{ toast.style.opacity=1; setTimeout(()=>toast.style.opacity=0, 800); };
+const save = ()=>{ localStorage.setItem('pp1', JSON.stringify(st)); flash(); };
+function card(t){
+  const e = st[t.id];
+  const d = document.createElement('div');
+  d.className = 'card' + (e?' done':'') + (spoil && t.hidden && !e ? ' hid' : '');
+  d.dataset.cat = t.category; d.dataset.gr = t.grade; d.dataset.e = e?'1':'';
+  d.innerHTML = `<div class="top"><span class="pip p-${t.grade}"></span><span class="ttl">${t.name}</span>
+    <span class="tag ${t.category==='story'?'story':t.category==='money'?'money':t.category==='robbery'?'robbery':''}">${t.category}</span>${t.missable?'<span class="miss">MISSABLE</span>':''}</div>
+    <div class="dd">"${t.description}"</div>
+    <div class="gd">${t.guide}<span class="cite">— ${(t.sources||[]).join('; ')}</span></div>
+    <div class="box"><input type="checkbox" ${e?'checked':''} aria-label="earned ${t.name}" onchange="ppTog(${t.id},this)"></div>`;
+  return d;
+}
+window.ppTog = (id, cb)=>{ if(cb.checked) st[id]=1; else delete st[id]; save(); render(); };
+window.ppReset = ()=>{ if(confirm('Clear the whole list?')){ st={}; save(); render(); } };
+window.ppExport = ()=>{ const b = new Blob([JSON.stringify({app:'platinum-post',saved:new Date().toISOString(),progress:st},null,1)],{type:'application/json'});
+  const a=document.createElement('a'); a.href=URL.createObjectURL(b); a.download='platinum-post-progress.json'; a.click(); };
+document.getElementById('imp').onchange = (ev)=>{ const f=ev.target.files[0]; if(!f) return;
+  const rd=new FileReader(); rd.onload=()=>{ try{ st=JSON.parse(rd.result).progress||{}; save(); render(); }catch(e){ alert('Not a Platinum Post save file'); } }; rd.readAsText(f); };
+document.getElementById('spB').onclick = ()=>{ spoil=!spoil; localStorage.setItem('ppsp',spoil?'1':'0');
+  document.getElementById('spB').textContent = spoil?'Spoilers hidden':'Spoilers shown';
+  document.getElementById('spB').classList.toggle('act',spoil); render(); };
+document.getElementById('hideB').onclick = ()=>{ hideE=!hideE; document.getElementById('hideB').classList.toggle('act',hideE); render(); };
+document.getElementById('q').oninput = render;
+document.getElementById('catf').onchange = render;
+document.getElementById('gr').onchange = render;
+function render(){
+  const q=document.getElementById('q').value.toLowerCase(), cat=document.getElementById('catf').value, g=document.getElementById('gr').value;
+  cols.innerHTML='';
+  for(const t of DATA.trophies){
+    if(cat!=='all'&&t.category!==cat) continue;
+    if(g!=='all'&&t.grade!==g) continue;
+    if(hideE&&st[t.id]) continue;
+    if(q&&!(t.name+' '+t.description+' '+t.guide).toLowerCase().includes(q)) continue;
+    cols.appendChild(card(t));
+  }
+  const n=Object.keys(st).length;
+  document.getElementById('pct').textContent = Math.round(n/55*100)+'%';
+  document.getElementById('cnt').textContent = n+' of 55 banked';
+  const by = gr => DATA.trophies.filter(t=>t.grade===gr&&st[t.id]).length;
+  document.getElementById('n-pl').textContent = st[1]?'EARNED':'—';
+  document.getElementById('t-go').textContent = by('gold')+'/2';
+  document.getElementById('t-si').textContent = by('silver')+'/6';
+  document.getElementById('t-br').textContent = by('bronze')+'/46';
+  document.getElementById('stamp').textContent = 'Printed offline · '+DATA.trophies.length+' trophies · list of 2026-11-18';
+}
+render();
+</script>
+</body>
+</html>

@@ -1,0 +1,720 @@
+{
+ "game": "Grand Theft Auto VI",
+ "platform": "PlayStation 5",
+ "list": "the official 55 trophies, 2026-11-18",
+ "trophies": [
+  {
+   "id": 1,
+   "name": "Vice Got a Price!",
+   "description": "Congratulations! You're a Leonida Legend.",
+   "grade": "platinum",
+   "guide": "The lowdown: earn everything else and the platinum takes care of itself — 'a Leonida Legend', as the card says. Pops automatically when all 54 others are earned. Nothing to do but the whole list. (Cross-checked on .)",
+   "category": "platinum",
+   "hidden": false,
+   "missable": false,
+   "sources": []
+  },
+  {
+   "id": 2,
+   "name": "Just Like Paradise",
+   "description": "Complete Gone Fishing.",
+   "grade": "bronze",
+   "guide": "The lowdown: Story mission Gone Fishing, the game's cold open in Leonida. Unmissable if you finish the story. Story-linked, so Sony hides the card until you pop it. (Cross-checked on GTA Wiki.)",
+   "category": "story",
+   "hidden": true,
+   "missable": false,
+   "sources": [
+    "GTA Wiki — Achievements and Trophies in GTA VI (gta.wiki)"
+   ]
+  },
+  {
+   "id": 3,
+   "name": "Paradise Lost",
+   "description": "Complete Chapter 1.",
+   "grade": "bronze",
+   "guide": "The lowdown: Awarded for finishing Chapter 1. Story progress cannot be lost once a mission is done. Story-linked, so Sony hides the card until you pop it. (Cross-checked on GTA Wiki.)",
+   "category": "story",
+   "hidden": true,
+   "missable": false,
+   "sources": [
+    "GTA Wiki — Achievements and Trophies in GTA VI (gta.wiki)"
+   ]
+  },
+  {
+   "id": 4,
+   "name": "T**s Ass Drug Money",
+   "description": "Complete Chapter 2.",
+   "grade": "bronze",
+   "guide": "The lowdown: Chapter 2 completion. The asterisked name is Rockstar's censor of the in-game chapter title. Story-linked, so Sony hides the card until you pop it. (Cross-checked on GTA Wiki.)",
+   "category": "story",
+   "hidden": true,
+   "missable": false,
+   "sources": [
+    "GTA Wiki — Achievements and Trophies in GTA VI (gta.wiki)"
+   ]
+  },
+  {
+   "id": 5,
+   "name": "Vice City, Baby!",
+   "description": "Complete Chapter 3.",
+   "grade": "bronze",
+   "guide": "The lowdown: Chapter 3 completion — the story reaches Vice City proper. Story-linked, so Sony hides the card until you pop it. (Cross-checked on GTA Wiki.)",
+   "category": "story",
+   "hidden": true,
+   "missable": false,
+   "sources": [
+    "GTA Wiki — Achievements and Trophies in GTA VI (gta.wiki)"
+   ]
+  },
+  {
+   "id": 6,
+   "name": "Top Of The World, Ma",
+   "description": "Complete Chapter 4.",
+   "grade": "bronze",
+   "guide": "The lowdown: Chapter 4 completion, the last chapter before the finale. Story-linked, so Sony hides the card until you pop it. (Cross-checked on GTA Wiki.)",
+   "category": "story",
+   "hidden": true,
+   "missable": false,
+   "sources": [
+    "GTA Wiki — Achievements and Trophies in GTA VI (gta.wiki)"
+   ]
+  },
+  {
+   "id": 7,
+   "name": "You Gotta Know When to Get Off",
+   "description": "Complete the final mission.",
+   "grade": "gold",
+   "guide": "The lowdown: Story final mission. Gold, 50G on Xbox. Earned on the credits roll. Story-linked, so Sony hides the card until you pop it. (Cross-checked on GTA Wiki.)",
+   "category": "story",
+   "hidden": true,
+   "missable": false,
+   "sources": [
+    "GTA Wiki — Achievements and Trophies in GTA VI (gta.wiki)"
+   ]
+  },
+  {
+   "id": 8,
+   "name": "Trust",
+   "description": "Complete Breakfast Run.",
+   "grade": "bronze",
+   "guide": "The lowdown: Breakfast Run mission completion. Jason and Lucia's early chapter job. Story-linked, so Sony hides the card until you pop it. (Cross-checked on GTA Wiki.)",
+   "category": "story",
+   "hidden": true,
+   "missable": false,
+   "sources": [
+    "GTA Wiki — Achievements and Trophies in GTA VI (gta.wiki)"
+   ]
+  },
+  {
+   "id": 9,
+   "name": "Break the Bank",
+   "description": "Complete The Cartel Heist.",
+   "grade": "bronze",
+   "guide": "The lowdown: The Cartel Heist, a 25G story heist mid-game. Story-linked, so Sony hides the card until you pop it. (Cross-checked on GTA Wiki.)",
+   "category": "story",
+   "hidden": true,
+   "missable": false,
+   "sources": [
+    "GTA Wiki — Achievements and Trophies in GTA VI (gta.wiki)"
+   ]
+  },
+  {
+   "id": 10,
+   "name": "Family Matters",
+   "description": "Complete Child's Play.",
+   "grade": "bronze",
+   "guide": "The lowdown: Child's Play mission completion. Story-linked, so Sony hides the card until you pop it. (Cross-checked on GTA Wiki.)",
+   "category": "story",
+   "hidden": true,
+   "missable": false,
+   "sources": [
+    "GTA Wiki — Achievements and Trophies in GTA VI (gta.wiki)"
+   ]
+  },
+  {
+   "id": 11,
+   "name": "DWNFALL",
+   "description": "Complete Headliners.",
+   "grade": "bronze",
+   "guide": "The lowdown: Headliners mission completion. Story-linked, so Sony hides the card until you pop it. (Cross-checked on GTA Wiki.)",
+   "category": "story",
+   "hidden": true,
+   "missable": false,
+   "sources": [
+    "GTA Wiki — Achievements and Trophies in GTA VI (gta.wiki)"
+   ]
+  },
+  {
+   "id": 12,
+   "name": "Hi-Jacked",
+   "description": "Complete VCIA Takedown.",
+   "grade": "bronze",
+   "guide": "The lowdown: VCIA Takedown mission completion, 25G. Story-linked, so Sony hides the card until you pop it. (Cross-checked on GTA Wiki.)",
+   "category": "story",
+   "hidden": true,
+   "missable": false,
+   "sources": [
+    "GTA Wiki — Achievements and Trophies in GTA VI (gta.wiki)"
+   ]
+  },
+  {
+   "id": 13,
+   "name": "Snow Storm",
+   "description": "Complete Operation Savage Glory.",
+   "grade": "bronze",
+   "guide": "The lowdown: Operation Savage Glory mission completion, 25G. Story-linked, so Sony hides the card until you pop it. (Cross-checked on GTA Wiki.)",
+   "category": "story",
+   "hidden": true,
+   "missable": false,
+   "sources": [
+    "GTA Wiki — Achievements and Trophies in GTA VI (gta.wiki)"
+   ]
+  },
+  {
+   "id": 14,
+   "name": "A Long Road",
+   "description": "Attain 100% Completion.",
+   "grade": "gold",
+   "guide": "The lowdown: The big one: 100% completion, 100G. The completion checklist: all 55 trophies feed this. Finish story, all strangers, all activities, collectibles, robberies, and exploration. Track progress in the pause menu's completion meter. (Cross-checked on GamesRadar+.)",
+   "category": "100%",
+   "hidden": false,
+   "missable": false,
+   "sources": [
+    "GamesRadar+ — Complete GTA 6 Trophy and Achievement list"
+   ]
+  },
+  {
+   "id": 15,
+   "name": "Cunning Stunts",
+   "description": "Complete 250 Stunts.",
+   "grade": "silver",
+   "guide": "The lowdown: 250 stunts total. Stunts are jumps, flips, and tricks scored by the game's stunt system. Farm them during free roam with fast bikes; each landing counts. Long grind — start early. (Cross-checked on GamesRadar+.)",
+   "category": "activity",
+   "hidden": false,
+   "missable": false,
+   "sources": [
+    "GamesRadar+ — Complete GTA 6 Trophy and Achievement list"
+   ]
+  },
+  {
+   "id": 16,
+   "name": "Master of None",
+   "description": "Try each type of activity once.",
+   "grade": "bronze",
+   "guide": "The lowdown: Try each of the 9 activity types once. One session of each: races, drone races, shooting range, fishing, arcade, meditation, hunting, challenges, and one more. Cheapest silver-to-bronne on the list — do it in an afternoon. (Cross-checked on GamesRadar+.)",
+   "category": "activity",
+   "hidden": false,
+   "missable": false,
+   "sources": [
+    "GamesRadar+ — Complete GTA 6 Trophy and Achievement list"
+   ]
+  },
+  {
+   "id": 17,
+   "name": "The Shootist",
+   "description": "Earn a gold medal in all Shooting Range challenges.",
+   "grade": "silver",
+   "guide": "The lowdown: Gold medal in all 42 shooting range challenges. Each range has courses; gold requires accuracy and time targets. Retry until gold — bronze runs do not count. Hardest activity gold. (Cross-checked on GamesRadar+.)",
+   "category": "activity",
+   "hidden": false,
+   "missable": false,
+   "sources": [
+    "GamesRadar+ — Complete GTA 6 Trophy and Achievement list"
+   ]
+  },
+  {
+   "id": 18,
+   "name": "Top Fun",
+   "description": "Win a Top Fun Drone Race at every location.",
+   "grade": "bronze",
+   "guide": "The lowdown: Win a Top Fun drone race at every one of the 14 locations. You only need first place, not all objectives. Map them in the Top Fun app in-game. (Cross-checked on GamesRadar+.)",
+   "category": "activity",
+   "hidden": false,
+   "missable": false,
+   "sources": [
+    "GamesRadar+ — Complete GTA 6 Trophy and Achievement list"
+   ]
+  },
+  {
+   "id": 19,
+   "name": "Earn Cash, Not Kudos",
+   "description": "Win 20 different races.",
+   "grade": "bronze",
+   "guide": "The lowdown: Win 20 different races — distinct tracks, not 20 wins on one circuit. Check the race app for the track list; win once per track. (Cross-checked on GamesRadar+.)",
+   "category": "activity",
+   "hidden": false,
+   "missable": false,
+   "sources": [
+    "GamesRadar+ — Complete GTA 6 Trophy and Achievement list"
+   ]
+  },
+  {
+   "id": 20,
+   "name": "Baited My Tackle",
+   "description": "Beat Cal in a fishing challenge.",
+   "grade": "bronze",
+   "guide": "The lowdown: Beat Cal in a fishing challenge. Cal is the rival angler in the fishing strand. His challenge unlocks after the intro; winning needs the bigger catch of the session. (Cross-checked on Output Lag.)",
+   "category": "activity",
+   "hidden": false,
+   "missable": false,
+   "sources": [
+    "Output Lag — GTA 6 Trophy List guide"
+   ]
+  },
+  {
+   "id": 21,
+   "name": "Stick Fiddler",
+   "description": "Complete an arcade game.",
+   "grade": "bronze",
+   "guide": "The lowdown: Complete any one arcade game start-to-finish. Four cabinets exist in arcades; one full playthrough of any cabinets's game counts. (Cross-checked on Output Lag.)",
+   "category": "activity",
+   "hidden": false,
+   "missable": false,
+   "sources": [
+    "Output Lag — GTA 6 Trophy List guide"
+   ]
+  },
+  {
+   "id": 22,
+   "name": "Road to Rehabilitation",
+   "description": "Complete the final mission for Andy.",
+   "grade": "bronze",
+   "guide": "The lowdown: Andy's strand final mission. Andy's strand is a story-linked stranger chain; finish all his missions and this pops. Story-linked, so Sony hides the card until you pop it. (Cross-checked on GTA Wiki.)",
+   "category": "stranger",
+   "hidden": true,
+   "missable": false,
+   "sources": [
+    "GTA Wiki — Achievements and Trophies in GTA VI (gta.wiki)"
+   ]
+  },
+  {
+   "id": 23,
+   "name": "This Was No Boat Accident",
+   "description": "Complete the final mission for Kenton.",
+   "grade": "bronze",
+   "guide": "The lowdown: Kenton's strand finale. Complete the full chain for this hidden bronze. Story-linked, so Sony hides the card until you pop it. (Cross-checked on GTA Wiki.)",
+   "category": "stranger",
+   "hidden": true,
+   "missable": false,
+   "sources": [
+    "GTA Wiki — Achievements and Trophies in GTA VI (gta.wiki)"
+   ]
+  },
+  {
+   "id": 24,
+   "name": "The Lone Rider",
+   "description": "Complete the final mission for Billy.",
+   "grade": "bronze",
+   "guide": "The lowdown: Billy's strand finale. Story-linked, so Sony hides the card until you pop it. (Cross-checked on GTA Wiki.)",
+   "category": "stranger",
+   "hidden": true,
+   "missable": false,
+   "sources": [
+    "GTA Wiki — Achievements and Trophies in GTA VI (gta.wiki)"
+   ]
+  },
+  {
+   "id": 25,
+   "name": "Strangers & Freaks",
+   "description": "Complete 8 mission strands for strangers across the state of Leonida.",
+   "grade": "silver",
+   "guide": "The lowdown: Complete 8 mission strands for strangers across Leonida, silver. There are more than 8 strands; Andy, Kenton, Billy, Randy, Tyrone, Bret and more. The 8 easiest count. (Cross-checked on GamesRadar+.)",
+   "category": "stranger",
+   "hidden": false,
+   "missable": false,
+   "sources": [
+    "GamesRadar+ — Complete GTA 6 Trophy and Achievement list"
+   ]
+  },
+  {
+   "id": 26,
+   "name": "Supply & Demand",
+   "description": "Complete the final mission for Randy.",
+   "grade": "bronze",
+   "guide": "The lowdown: Randy's strand finale. Story-linked, so Sony hides the card until you pop it. (Cross-checked on GTA Wiki.)",
+   "category": "stranger",
+   "hidden": true,
+   "missable": false,
+   "sources": [
+    "GTA Wiki — Achievements and Trophies in GTA VI (gta.wiki)"
+   ]
+  },
+  {
+   "id": 27,
+   "name": "Spin On This!",
+   "description": "Complete the final mission for Tyrone.",
+   "grade": "bronze",
+   "guide": "The lowdown: Tyrone's strand finale. Story-linked, so Sony hides the card until you pop it. (Cross-checked on GTA Wiki.)",
+   "category": "stranger",
+   "hidden": true,
+   "missable": false,
+   "sources": [
+    "GTA Wiki — Achievements and Trophies in GTA VI (gta.wiki)"
+   ]
+  },
+  {
+   "id": 28,
+   "name": "Positive Mental Attitude",
+   "description": "Meditate at every spot across Leonida.",
+   "grade": "bronze",
+   "guide": "The lowdown: Meditate at all 18 spots across Leonida. Heads-up, this one can be missed: per The Games Wiki at least one meditation spot only exists during Chapter 1 — do the early ones before the story moves on. This is the list's known missable. (Cross-checked on The Games Wiki GTA 6.)",
+   "category": "collectible",
+   "hidden": false,
+   "missable": true,
+   "sources": [
+    "The Games Wiki GTA 6 — Missable Content notes"
+   ]
+  },
+  {
+   "id": 29,
+   "name": "Fair Game",
+   "description": "Hunt a unique animal for Bret.",
+   "grade": "bronze",
+   "guide": "The lowdown: Hunt a unique GTA 6 animal for Bret, the hunting stranger. The unique animal appears in Bret's final hunt. Story-linked, so Sony hides the card until you pop it. (Cross-checked on GTA Wiki.)",
+   "category": "stranger",
+   "hidden": true,
+   "missable": false,
+   "sources": [
+    "GTA Wiki — Achievements and Trophies in GTA VI (gta.wiki)"
+   ]
+  },
+  {
+   "id": 30,
+   "name": "Don't Touch My Deck",
+   "description": "Complete 3 Collectible Card sets.",
+   "grade": "silver",
+   "guide": "The lowdown: Complete 3 collectible card sets, silver. Cards are scattered collectibles; sets complete when a themed run is fully gathered. 30G. (Cross-checked on GamesRadar+.)",
+   "category": "collectible",
+   "hidden": false,
+   "missable": false,
+   "sources": [
+    "GamesRadar+ — Complete GTA 6 Trophy and Achievement list"
+   ]
+  },
+  {
+   "id": 31,
+   "name": "You WAiNKer!",
+   "description": "WAiNK It at 100 locations.",
+   "grade": "silver",
+   "guide": "The lowdown: WAiNK It at 100 locations, silver. WAiNK is the in-game tagging mechanic; tag 100 of the marked spots around the map. (Cross-checked on GamesRadar+.)",
+   "category": "collectible",
+   "hidden": false,
+   "missable": false,
+   "sources": [
+    "GamesRadar+ — Complete GTA 6 Trophy and Achievement list"
+   ]
+  },
+  {
+   "id": 32,
+   "name": "One Last Thing",
+   "description": "Complete 50 Challenges.",
+   "grade": "bronze",
+   "guide": "The lowdown: Complete 50 challenges. Challenges are the short map objectives (stunt chains, photo tasks). 50 of any mix. (Cross-checked on GamesRadar+.)",
+   "category": "activity",
+   "hidden": false,
+   "missable": false,
+   "sources": [
+    "GamesRadar+ — Complete GTA 6 Trophy and Achievement list"
+   ]
+  },
+  {
+   "id": 33,
+   "name": "Hot Together",
+   "description": "Lose a 4 star Wanted Level with your partner and escape the heat.",
+   "grade": "bronze",
+   "guide": "The lowdown: Lose a 4-star wanted level WITH your partner and escape. Both characters wanted at 4 stars, then break line of sight together. Switch-control makes this a two-act escape. (Cross-checked on GamesRadar+.)",
+   "category": "wanted",
+   "hidden": false,
+   "missable": false,
+   "sources": [
+    "GamesRadar+ — Complete GTA 6 Trophy and Achievement list"
+   ]
+  },
+  {
+   "id": 34,
+   "name": "Retail Therapy",
+   "description": "Rob 3 shops back-to-back with your partner without losing your Wanted Level.",
+   "grade": "bronze",
+   "guide": "The lowdown: Rob 3 shops back-to-back with your partner WITHOUT losing the wanted level. Chain the robberies on one heat streak — losing the stars resets the chain. (Cross-checked on GamesRadar+.)",
+   "category": "wanted",
+   "hidden": false,
+   "missable": false,
+   "sources": [
+    "GamesRadar+ — Complete GTA 6 Trophy and Achievement list"
+   ]
+  },
+  {
+   "id": 35,
+   "name": "Whip It Good",
+   "description": "Discover 100 vehicles.",
+   "grade": "bronze",
+   "guide": "The lowdown: Discover 100 vehicles. Discovery = drive or enter a vehicle model the first time. 100 distinct models; garages help track. (Cross-checked on GamesRadar+.)",
+   "category": "collectible",
+   "hidden": false,
+   "missable": false,
+   "sources": [
+    "GamesRadar+ — Complete GTA 6 Trophy and Achievement list"
+   ]
+  },
+  {
+   "id": 36,
+   "name": "Gunslinger",
+   "description": "Take down 5 enemies in a single use of Combat Focus.",
+   "grade": "bronze",
+   "guide": "The lowdown: Take down 5 enemies in a single use of Combat Focus. Combat Focus is the slow-mo ability; a dense firefight (heist, gang op) gives 5+ targets in one activation. (Cross-checked on GamesRadar+.)",
+   "category": "combat",
+   "hidden": false,
+   "missable": false,
+   "sources": [
+    "GamesRadar+ — Complete GTA 6 Trophy and Achievement list"
+   ]
+  },
+  {
+   "id": 37,
+   "name": "Catch Me If You Can",
+   "description": "Make an unscheduled departure at VCIA.",
+   "grade": "bronze",
+   "guide": "The lowdown: Make an unscheduled departure at VCIA. Hidden joke trophy — per the name, an escape from the VCIA building in story context. Leave the way the mission does not intend. Story-linked, so Sony hides the card until you pop it. (Cross-checked on GTA Wiki.)",
+   "category": "misc",
+   "hidden": true,
+   "missable": false,
+   "sources": [
+    "GTA Wiki — Achievements and Trophies in GTA VI (gta.wiki)"
+   ]
+  },
+  {
+   "id": 38,
+   "name": "Challenging Tank",
+   "description": "Kinda hot in these Rhinos.",
+   "grade": "bronze",
+   "guide": "The lowdown: Rhino tank joke ('kinda hot in these Rhinos'). Hidden. Requires tank access — a military base or a mission scene; steal a Rhino and survive the heat. Story-linked, so Sony hides the card until you pop it. (Cross-checked on GTA Wiki.)",
+   "category": "misc",
+   "hidden": true,
+   "missable": false,
+   "sources": [
+    "GTA Wiki — Achievements and Trophies in GTA VI (gta.wiki)"
+   ]
+  },
+  {
+   "id": 39,
+   "name": "Sneakthief",
+   "description": "Rob a jewelry store without being detected.",
+   "grade": "bronze",
+   "guide": "The lowdown: Rob a jewelry store without being detected. Stealth approach: camera control, silent takedowns, case the store first. Alarm trips void it. (Cross-checked on GamesRadar+.)",
+   "category": "robbery",
+   "hidden": false,
+   "missable": false,
+   "sources": [
+    "GamesRadar+ — Complete GTA 6 Trophy and Achievement list"
+   ]
+  },
+  {
+   "id": 40,
+   "name": "Maximum Withdrawal",
+   "description": "Rob 5 Bank Vaults and escape.",
+   "grade": "silver",
+   "guide": "The lowdown: Rob 5 bank vaults and escape, silver 40G. Vault robberies are the prep-heavy jobs: crew, drill, getaway. Five different branches. (Cross-checked on GamesRadar+.)",
+   "category": "robbery",
+   "hidden": false,
+   "missable": false,
+   "sources": [
+    "GamesRadar+ — Complete GTA 6 Trophy and Achievement list"
+   ]
+  },
+  {
+   "id": 41,
+   "name": "A Classic Blitz Play",
+   "description": "Rob an Armored Truck and escape.",
+   "grade": "bronze",
+   "guide": "The lowdown: Rob an armored truck and escape. Trucks spawn on routes; block, breach, take the bags, lose the heat. Easiest of the big robberies. (Cross-checked on GamesRadar+.)",
+   "category": "robbery",
+   "hidden": false,
+   "missable": false,
+   "sources": [
+    "GamesRadar+ — Complete GTA 6 Trophy and Achievement list"
+   ]
+  },
+  {
+   "id": 42,
+   "name": "The Goodtime State",
+   "description": "Explore all of Leonida.",
+   "grade": "bronze",
+   "guide": "The lowdown: Explore all of Leonida, 20G. The map's discovery grid: visit every map cell. A chopper tour plus the highway loop covers most of it; zoom the map to find fog. (Cross-checked on GamesRadar+.)",
+   "category": "explore",
+   "hidden": false,
+   "missable": false,
+   "sources": [
+    "GamesRadar+ — Complete GTA 6 Trophy and Achievement list"
+   ]
+  },
+  {
+   "id": 43,
+   "name": "Pest Control",
+   "description": "Rob an Illegal Operation belonging to each gang.",
+   "grade": "bronze",
+   "guide": "The lowdown: Rob an Illegal Operation belonging to each gang — 9 total. Each gang runs one rackets location; hit all nine businesses once. (Cross-checked on GamesRadar+.)",
+   "category": "robbery",
+   "hidden": false,
+   "missable": false,
+   "sources": [
+    "GamesRadar+ — Complete GTA 6 Trophy and Achievement list"
+   ]
+  },
+  {
+   "id": 44,
+   "name": "In The Beginning…",
+   "description": "Enjoy a cocktail with a view on Ocean Beach.",
+   "grade": "bronze",
+   "guide": "The lowdown: Enjoy a cocktail with a view on Ocean Beach. Hidden 5G. Sit at the Ocean Beach bar scene and take the drink prompt at the viewpoint spot. Story-linked, so Sony hides the card until you pop it. (Cross-checked on GTA Wiki.)",
+   "category": "misc",
+   "hidden": true,
+   "missable": false,
+   "sources": [
+    "GTA Wiki — Achievements and Trophies in GTA VI (gta.wiki)"
+   ]
+  },
+  {
+   "id": 45,
+   "name": "Capital Offense",
+   "description": "Smash your way out of a vehicle showroom in classic style.",
+   "grade": "bronze",
+   "guide": "The lowdown: Smash your way out of a vehicle showroom in classic style — a Vice callback. Hidden 5G. Drive into the showroom and exit through the window glass. Story-linked, so Sony hides the card until you pop it. (Cross-checked on GTA Wiki.)",
+   "category": "misc",
+   "hidden": true,
+   "missable": false,
+   "sources": [
+    "GTA Wiki — Achievements and Trophies in GTA VI (gta.wiki)"
+   ]
+  },
+  {
+   "id": 46,
+   "name": "Let’s Go Bowling",
+   "description": "Follow-through at the Kolt & Associates' bowling alley.",
+   "grade": "bronze",
+   "guide": "The lowdown: Bowling alley follow-through at Kolt & Associates' alley — the bowling meme return. Hidden 5G. Complete the bowling scene with the follow-through prompt. Story-linked, so Sony hides the card until you pop it. (Cross-checked on GTA Wiki.)",
+   "category": "misc",
+   "hidden": true,
+   "missable": false,
+   "sources": [
+    "GTA Wiki — Achievements and Trophies in GTA VI (gta.wiki)"
+   ]
+  },
+  {
+   "id": 47,
+   "name": "Personal Best",
+   "description": "A partnership with mass appeal.",
+   "grade": "bronze",
+   "guide": "The lowdown: A partnership with mass appeal — hidden 5G. Tied to the Jason/Lucia partnership content; a shared activity that goes public. Story-linked, so Sony hides the card until you pop it. (Cross-checked on GTA Wiki.)",
+   "category": "misc",
+   "hidden": true,
+   "missable": false,
+   "sources": [
+    "GTA Wiki — Achievements and Trophies in GTA VI (gta.wiki)"
+   ]
+  },
+  {
+   "id": 48,
+   "name": "Actions Speak Louder",
+   "description": "Choices made (for better or worse).",
+   "grade": "bronze",
+   "guide": "The lowdown: Choices made (for better or worse) — 500 in total. Hidden 5G. The game's choice counter: 500 accumulated dialogue/action choices across the story. Story-linked, so Sony hides the card until you pop it. (Cross-checked on GTA Wiki.)",
+   "category": "misc",
+   "hidden": true,
+   "missable": false,
+   "sources": [
+    "GTA Wiki — Achievements and Trophies in GTA VI (gta.wiki)"
+   ]
+  },
+  {
+   "id": 49,
+   "name": "Bad Luck, I Guess",
+   "description": "Second time's the charm.",
+   "grade": "bronze",
+   "guide": "The lowdown: Second time's the charm — hidden 5G. Replay-driven: an event that must be repeated once failed. Story-linked, so Sony hides the card until you pop it. (Cross-checked on GTA Wiki.)",
+   "category": "misc",
+   "hidden": true,
+   "missable": false,
+   "sources": [
+    "GTA Wiki — Achievements and Trophies in GTA VI (gta.wiki)"
+   ]
+  },
+  {
+   "id": 50,
+   "name": "The Truth Is Out There",
+   "description": "What the hell just happened?",
+   "grade": "bronze",
+   "guide": "The lowdown: What the hell just happened? Hidden 5G. Unverified unlock per The Games Wiki — a scripted weird moment in the story. Sit back and enjoy it. Story-linked, so Sony hides the card until you pop it. (Cross-checked on GTA Wiki.)",
+   "category": "misc",
+   "hidden": true,
+   "missable": false,
+   "sources": [
+    "GTA Wiki — Achievements and Trophies in GTA VI (gta.wiki)"
+   ]
+  },
+  {
+   "id": 51,
+   "name": "Ten Pin",
+   "description": "Bowl 'em over with a melee drive-by.",
+   "grade": "bronze",
+   "guide": "The lowdown: Bowl 'em over with a melee drive-by — hidden 5G. A bowling-related melee attack from a moving vehicle; the alley's pedestrians are the pins. Story-linked, so Sony hides the card until you pop it. (Cross-checked on GTA Wiki.)",
+   "category": "misc",
+   "hidden": true,
+   "missable": false,
+   "sources": [
+    "GTA Wiki — Achievements and Trophies in GTA VI (gta.wiki)"
+   ]
+  },
+  {
+   "id": 52,
+   "name": "Dime on the Dollar",
+   "description": "Earn $250,000 laundering Marked Bills through your contacts.",
+   "grade": "bronze",
+   "guide": "The lowdown: Earn $250,000 laundering Marked Bills through your contacts, 20G. Marked Bills come from robberies; laundering happens through contact networks over time. Start laundering early. (Cross-checked on GamesRadar+.)",
+   "category": "money",
+   "hidden": false,
+   "missable": false,
+   "sources": [
+    "GamesRadar+ — Complete GTA 6 Trophy and Achievement list"
+   ]
+  },
+  {
+   "id": 53,
+   "name": "Treat Yo Self",
+   "description": "Spend $100,000 across all shops.",
+   "grade": "bronze",
+   "guide": "The lowdown: Spend $100,000 across all shops, 15G. Cumulative spend at any shops — weapons, clothes, food. Progress tracked silently. (Cross-checked on GamesRadar+.)",
+   "category": "money",
+   "hidden": false,
+   "missable": false,
+   "sources": [
+    "GamesRadar+ — Complete GTA 6 Trophy and Achievement list"
+   ]
+  },
+  {
+   "id": 54,
+   "name": "Little Boxes",
+   "description": "Purchase all garage properties.",
+   "grade": "bronze",
+   "guide": "The lowdown: Purchase all 8 garage properties, 15G. Garages are the buyable property type; all 8 on the map. Costs feed the money trophies too. (Cross-checked on GamesRadar+.)",
+   "category": "money",
+   "hidden": false,
+   "missable": false,
+   "sources": [
+    "GamesRadar+ — Complete GTA 6 Trophy and Achievement list"
+   ]
+  },
+  {
+   "id": 55,
+   "name": "On the Spot",
+   "description": "Register 10 vehicles to the Scooter Bros app.",
+   "grade": "bronze",
+   "guide": "The lowdown: Register 10 vehicles to the Scooter Bros app, 15G. The vehicle-registration app: register any 10 distinct owned vehicles. (Cross-checked on GamesRadar+.)",
+   "category": "money",
+   "hidden": false,
+   "missable": false,
+   "sources": [
+    "GamesRadar+ — Complete GTA 6 Trophy and Achievement list"
+   ]
+  }
+ ]
+}
